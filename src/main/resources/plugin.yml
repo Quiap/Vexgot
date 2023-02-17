@@ -1,0 +1,6 @@
+name: VexGot
+version: '${project.version}'
+main: com.moonsworkshop.vexgot.VexGot
+authors: [ MoonsworkShop ]
+description: Vexcty's take on spigot's libary (not server jar)
+website: github.com/MOONSWORKSHOPLLC
