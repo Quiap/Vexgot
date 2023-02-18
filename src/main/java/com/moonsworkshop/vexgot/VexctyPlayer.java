@@ -1,4 +1,4 @@
-package com.moonsworkshop.vexcty.api.craftbukkit;
+package com.moonsworkshop.vexgot;
 
 import com.moonsworkshop.vexcty.api.util.CC;
 import net.md_5.bungee.api.chat.BaseComponent;
