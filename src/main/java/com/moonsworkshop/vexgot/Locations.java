@@ -1,4 +1,4 @@
-package com.moonsworkshop.vexcty.util;
+package com.moonsworkshop.vexgot;
 
 import lombok.experimental.UtilityClass;
 import org.bukkit.Bukkit;
