@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/MoonsworkshopLLC/Vexgot.svg)](https://jitpack.io/#MoonsworkshopLLC/Vexgot)
 # Vexgot
 A Remake of Spigot
 
