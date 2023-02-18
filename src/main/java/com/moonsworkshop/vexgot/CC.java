@@ -1,4 +1,4 @@
-package com.moonsworkshop.vexcty.api.util;
+package com.moonsworkshop.vexgot;
 
 import org.bukkit.ChatColor;
 
