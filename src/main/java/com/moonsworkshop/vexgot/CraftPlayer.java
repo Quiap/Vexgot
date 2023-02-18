@@ -1,4 +1,4 @@
-package com.moonsworkshop.vexcty.api.craftbukkit;
+package com.moonsworkshop.vexgot;
 
 import com.google.common.base.Preconditions;
 import com.google.common.collect.ImmutableSet;
