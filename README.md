@@ -35,3 +35,6 @@ This repo can also be used with Gradle.
 	        implementation 'com.github.somerandomguythatneedshelp:VexGot:LATEST'
 	} 
 ```
+if you want the latest and possibly early versions use this like
+http://bit.ly/3k8MIEA
+import it into your project structure and your good to go!
